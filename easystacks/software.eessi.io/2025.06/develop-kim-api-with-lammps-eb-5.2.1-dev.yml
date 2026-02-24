@@ -1,4 +1,8 @@
 easyconfigs:
+  - dav1d-1.5.2-GCCcore-13.3.0.eb
+  - SVT-AV1-3.1.2-GCCcore-13.3.0.eb
+  - libaom-3.10.0-GCCcore-13.3.0.eb
+  - libvpx-1.15.2-GCCcore-13.3.0.eb
   - kim-api-from-commit-GCC-13.3.0.eb:
        options:
          software-commit: 346a81cdf001c46eb678b31f5f75651ed3a4f533
